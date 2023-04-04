@@ -1,7 +1,4 @@
 SELECT title FROM songs;
-
-/* OR */
 SELECT title FROM songs WHERE released > 1990 OR mood= "epic";
-
-/* AND */
+///
 SELECT title FROM songs WHERE mood= "epic" AND duration < 240 AND released > 1990
