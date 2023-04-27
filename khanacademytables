@@ -15,4 +15,4 @@ INSERT INTO movies VALUES (6, "Disney's Up", 2009);
 
 INSERT into favorite_books VALUES (1, "Red Rising", 9.5);
 INSERT into favorite_books VALUES (2, "Golden Son", 9.0);
-INSERT into favorite_books VALUES (3, "Morning Son", 8.7);
+INSERT into favorite_books VALUES (3, "Morning Star", 8.7);
